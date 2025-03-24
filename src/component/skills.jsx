@@ -14,7 +14,7 @@ export default function Skills() {
                             <h5>Java</h5>
                             <div className="progress">
                                 <div className="progress-bar progress-bar-striped active bgcolor " style={{ width: "90%" }}></div>
-                                <div className="progress-value">90%</div>
+                                <div className="progress-value">85%</div>
                             </div>
                         </div>
                         <br />
@@ -22,7 +22,7 @@ export default function Skills() {
                             <h5>C++</h5>
                             <div className="progress">
                                 <div className="progress-bar progress-bar-dark progress-bar-striped active bgcolor" style={{ width: "90%" }}></div>
-                                <div className="progress-value">90%</div>
+                                <div className="progress-value">65%</div>
                             </div>
                         </div>
                         <br />
@@ -30,7 +30,7 @@ export default function Skills() {
                             <h5>JavaScript</h5>
                             <div className="progress">
                                 <div className="progress-bar progress-bar-dark progress-bar-striped active bgcolor" style={{ width: "90%" }}></div>
-                                <div className="progress-value">90%</div>
+                                <div className="progress-value">60%</div>
                             </div>
                         </div>
                         <br />
@@ -38,7 +38,7 @@ export default function Skills() {
                             <h5>Python</h5>
                             <div className="progress">
                                 <div className="progress-bar progress-bar-dark progress-bar-striped active bgcolor" style={{ width: "90%" }}></div>
-                                <div className="progress-value">90%</div>
+                                <div className="progress-value">70%</div>
                             </div>
                         </div>
                     </div>
@@ -49,7 +49,7 @@ export default function Skills() {
                             <h5>React</h5>
                             <div className="progress">
                                 <div className="progress-bar progress-bar-dark progress-bar-striped active bgcolor" style={{ width: "90%" }}></div>
-                                <div className="progress-value">90%</div>
+                                <div className="progress-value">85%</div>
                             </div>
                         </div>
                         <br />
@@ -57,7 +57,7 @@ export default function Skills() {
                             <h5>Bootstrap</h5>
                             <div className="progress">
                                 <div className="progress-bar progress-bar-dark progress-bar-striped active bgcolor" style={{ width: "90%" }}></div>
-                                <div className="progress-value">90%</div>
+                                <div className="progress-value">80%</div>
                             </div>
                         </div>
                         <br />
@@ -73,7 +73,7 @@ export default function Skills() {
                             <h5>CSS / SCSS</h5>
                             <div className="progress">
                                 <div className="progress-bar progress-bar-dark progress-bar-striped active bgcolor" style={{ width: "90%" }}></div>
-                                <div className="progress-value">90%</div>
+                                <div className="progress-value">80%</div>
                             </div>
                         </div>
                     </div>
@@ -84,7 +84,7 @@ export default function Skills() {
                             <h5>MySQL</h5>
                             <div className="progress">
                                 <div className="progress-bar progress-bar-dark progress-bar-striped active bgcolor" style={{ width: "90%" }}></div>
-                                <div className="progress-value">90%</div>
+                                <div className="progress-value">75%</div>
                             </div>
                         </div>
                         <br />
@@ -92,7 +92,7 @@ export default function Skills() {
                             <h5>MongoDB</h5>
                             <div className="progress">
                                 <div className="progress-bar progress-bar-dark progress-bar-striped active bgcolor" style={{ width: "90%" }}></div>
-                                <div className="progress-value">90%</div>
+                                <div className="progress-value">65%</div>
                             </div>
                         </div>
                         <br />
@@ -100,7 +100,7 @@ export default function Skills() {
                             <h5>Spring Boot</h5>
                             <div className="progress">
                                 <div className="progress-bar progress-bar-dark progress-bar-striped active bgcolor" style={{ width: "90%" }}></div>
-                                <div className="progress-value">90%</div>
+                                <div className="progress-value">45%</div>
                             </div>
                         </div>
                         <br />
@@ -108,7 +108,7 @@ export default function Skills() {
                             <h5>GitHub</h5>
                             <div className="progress">
                                 <div className="progress-bar progress-bar-dark progress-bar-striped active bgcolor" style={{ width: "90%" }}></div>
-                                <div className="progress-value">90%</div>
+                                <div className="progress-value">60%</div>
                             </div>
                         </div>
                     </div>
