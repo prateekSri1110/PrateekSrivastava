@@ -19,7 +19,7 @@ export default function About() {
                         </p>
                         <p className="para">Currently pursuing my Master's in AI & ML, I love solving complex problems, building innovative applications and continuously expanding my technical skills. Beyond coding, you'll find me exploring new places, cooking delicious food, and enjoying long rides. Always eager to learn, create, and make an impact!</p>
                         <hr />
-                        <h4 className="text-center">SOFTWARE ENGINEER</h4>
+                        <h4>SOFTWARE ENGINEER</h4>
                         <span className="text-uppercase text-center">Expertise
                             in Building Web Applications</span>
                     </div>

@@ -9,7 +9,7 @@ export default function Navigator() {
             <button className="navbar-toggler ms-auto" id="btn" type="button" data-bs-toggle="collapse"
                 data-bs-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="true"
                 aria-label="Toggle navigation">
-                <span className="navbar-toggler-icon" style={{ backgroundColor: "rgba(255, 255, 255, 0.49)" }}></span>
+                <span className="navbar-toggler-icon" style={{ backgroundColor: "rgba(153, 135, 240, 0.32)" }}></span>
             </button>
 
             <div className="collapse navbar-collapse menu" id="navbarSupportedContent">
