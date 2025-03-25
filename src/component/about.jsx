@@ -1,5 +1,6 @@
 import prateek from '../assets/p2.jpg'
 import './allStyles.css'
+
 export default function About() {
     return (
         <div className='mt-5' id='about'>
