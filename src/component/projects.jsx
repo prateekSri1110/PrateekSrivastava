@@ -1,4 +1,6 @@
 import streamlit from '../assets/streamlit.png'
+import teahub from '../assets/teahub.png'
+import shayar from '../assets/shayar.png'
 
 export default function Projects() {
     return (
@@ -11,12 +13,9 @@ export default function Projects() {
                 <div className="image-container">
                     <div className="row d-flex">
                         <div className="col-6">
-                            <iframe
-                                src="https://shayarana.netlify.app/"
+                            <img src={shayar}
                                 width="90%" height="300px"
-                                style={{ border: "none" }}
-                                title="Embedded Site"
-                            ></iframe>
+                                alt='shayarana' style={{ border: "none" }} />
                         </div>
                         <div className="col-6">
                             <h3>Shayarana</h3>
@@ -30,6 +29,7 @@ export default function Projects() {
                                 <li>
                                     Upload, Fetch and delete your posts. Authentication and Profiling.
                                 </li>
+                                <a href="https://shayarana.netlify.app/">Link</a>
                             </p>
                         </div>
                     </div>
@@ -38,7 +38,7 @@ export default function Projects() {
                         <div className="col-6">
                             <img src={streamlit}
                                 width="90%" height="300px"
-                                alt='' style={{ border: "none" }} />
+                                alt='greenClassifier' style={{ border: "none" }} />
                         </div>
                         <div className="col-6">
                             <h3>Green Classifier Model</h3>
@@ -50,18 +50,16 @@ export default function Projects() {
                                 <li>
                                     Deployed on Streamlit with an intuitive UI, achieving 90% classification accuracy.
                                 </li>
+                                <a href="https://greenclassifier.streamlit.app/">Link</a>
                             </p>
                         </div>
                     </div>
                     <hr />
                     <div className="row d-flex">
                         <div className="col-6">
-                            <iframe
-                                src="https://prateeksri1110.github.io/Teahub/"
+                            <img src={teahub}
                                 width="90%" height="300px"
-                                style={{ border: "1px solid black" }}
-                                title="Embedded Site"
-                            ></iframe>
+                                alt='TeaHub' style={{ border: "none" }} />
                         </div>
                         <div className="col-6">
                             <h3>TeaHub</h3>
@@ -72,6 +70,7 @@ export default function Projects() {
                                 <li>
                                     Deployed on Github Pages.
                                 </li>
+                                <a href='https://prateeksri1110.github.io/Teahub/'>Link</a>
                             </p>
                         </div>
                     </div>
