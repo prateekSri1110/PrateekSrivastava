@@ -59,7 +59,7 @@ export default function Projects() {
                             <iframe
                                 src="https://prateeksri1110.github.io/Teahub/"
                                 width="90%" height="300px"
-                                style={{ border: "none", border: "1px solid black" }}
+                                style={{ border: "1px solid black" }}
                                 title="Embedded Site"
                             ></iframe>
                         </div>
