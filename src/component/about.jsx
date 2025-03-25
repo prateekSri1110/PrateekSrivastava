@@ -1,5 +1,6 @@
-import prateek from '../assets/p2.jpg'
+import prateek from '../assets/me.jpg'
 import './allStyles.css'
+import PDF from './resume';
 
 export default function About() {
     return (
@@ -23,6 +24,8 @@ export default function About() {
                         <h4>SOFTWARE ENGINEER</h4>
                         <span className="text-uppercase text-center">Expertise
                             in Building Web Applications</span>
+                        <br /><br />
+                        <PDF />
                     </div>
                 </div>
             </div>
