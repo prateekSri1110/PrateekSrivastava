@@ -13,9 +13,10 @@ export default function Projects() {
                 <div className="image-container">
                     <div className="row d-flex">
                         <div className="col-6">
-                            <img src={shayar}
+                            <iframe src="https://shayarana.netlify.app/" style={{ border: "1px solid black" }} width="90%" height="300px" />
+                            {/* <img src={shayar}
                                 width="90%" height="300px"
-                                alt='shayarana' style={{ border: "none" }} />
+                                alt='shayarana' style={{ border: "none" }} /> */}
                         </div>
                         <div className="col-6">
                             <h3>Shayarana</h3>
@@ -36,9 +37,10 @@ export default function Projects() {
                     <hr />
                     <div className="row d-flex">
                         <div className="col-6">
-                            <img src={streamlit}
+                            <iframe src="https://greenclassifier.streamlit.app/" style={{ border: "1px solid black" }} width="90%" height="300px" />
+                            {/* <img src={streamlit}
                                 width="90%" height="300px"
-                                alt='greenClassifier' style={{ border: "none" }} />
+                                alt='greenClassifier' style={{ border: "none" }} /> */}
                         </div>
                         <div className="col-6">
                             <h3>Green Classifier Model</h3>
@@ -57,9 +59,10 @@ export default function Projects() {
                     <hr />
                     <div className="row d-flex">
                         <div className="col-6">
-                            <img src={teahub}
+                            <iframe src="https://prateeksri1110.github.io/Teahub/" style={{ border: "1px solid black" }} width="90%" height="300px" />
+                            {/* <img src={teahub}
                                 width="90%" height="300px"
-                                alt='TeaHub' style={{ border: "none" }} />
+                                alt='TeaHub' style={{ border: "none" }} /> */}
                         </div>
                         <div className="col-6">
                             <h3>TeaHub</h3>
