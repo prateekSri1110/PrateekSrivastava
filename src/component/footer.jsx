@@ -59,7 +59,7 @@ export default function Footer() {
                                 </li>
                                 <li>
                                     <p><i className="bi bi-envelope pe-2"></i>
-                                        <a href="mailto:ramainteriors6789@gmail.com" className="text-white">prateek.sr@gmail.com</a>
+                                        <a href="mailto:prateek.sri2003@gmail.com" className="text-white">prateek.sri2003@gmail.com</a>
                                     </p>
                                 </li>
                             </ul>
