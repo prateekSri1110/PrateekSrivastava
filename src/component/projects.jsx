@@ -1,12 +1,8 @@
-import streamlit from '../assets/streamlit.png'
-import teahub from '../assets/teahub.png'
-import shayar from '../assets/shayar.png'
-
 export default function Projects() {
     return (
-        <div id="project">
+        <header id="project">
             <br /><br /><hr />
-            <div className="container project p-4" id="project">
+            <section className="container project p-4" id="project">
 
                 <h3 className="text-center">PROJECTS</h3>
                 <br />
@@ -14,9 +10,6 @@ export default function Projects() {
                     <div className="row d-flex">
                         <div className="col-6">
                             <iframe src="https://shayarana.netlify.app/" style={{ border: "1px solid black" }} width="90%" height="300px" />
-                            {/* <img src={shayar}
-                                width="90%" height="300px"
-                                alt='shayarana' style={{ border: "none" }} /> */}
                         </div>
                         <div className="col-6">
                             <h3>Shayarana</h3>
@@ -38,9 +31,6 @@ export default function Projects() {
                     <div className="row d-flex">
                         <div className="col-6">
                             <iframe src="https://greenclassifier.streamlit.app/" style={{ border: "1px solid black" }} width="90%" height="300px" />
-                            {/* <img src={streamlit}
-                                width="90%" height="300px"
-                                alt='greenClassifier' style={{ border: "none" }} /> */}
                         </div>
                         <div className="col-6">
                             <h3>Green Classifier Model</h3>
@@ -60,9 +50,6 @@ export default function Projects() {
                     <div className="row d-flex">
                         <div className="col-6">
                             <iframe src="https://prateeksri1110.github.io/Teahub/" style={{ border: "1px solid black" }} width="90%" height="300px" />
-                            {/* <img src={teahub}
-                                width="90%" height="300px"
-                                alt='TeaHub' style={{ border: "none" }} /> */}
                         </div>
                         <div className="col-6">
                             <h3>TeaHub</h3>
@@ -81,7 +68,7 @@ export default function Projects() {
                 <br /><br />
                 <h4 className='text-center'>Check Out my <a href="https://github.com/prateekSri1110">Github</a> for more Porjects.</h4>
                 <br /><hr />
-            </div>
-        </div >
+            </section>
+        </header>
     );
 }
