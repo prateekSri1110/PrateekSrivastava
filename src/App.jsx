@@ -5,6 +5,7 @@ import Footer from './component/footer.jsx'
 import Qualifications from './component/qualifications.jsx'
 import Skills from './component/skills.jsx'
 import Projects from './component/projects.jsx'
+import Extra from './component/extras.jsx'
 
 function App() {
 
@@ -13,6 +14,7 @@ function App() {
       <Navigator />
       <About />
       <Qualifications />
+      <Extra />
       <Skills />
       <Projects />
       <Footer />

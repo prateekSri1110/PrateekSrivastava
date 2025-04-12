@@ -26,7 +26,7 @@ export default function Qualifications() {
                             <hr />
                             <p className="card-text">
                                 <b>Graduation</b><br />Bachelor's of Computer Applications<br />(2020 - 2023)<br />Chandigarh University, Gharuan<br /><br />
-                                <b>Diploma</b><br />Masters's of Computer Applications (AIML)<br />(2023 - 2025)<br />Chandigarh University, Gharuan
+                                <b>Post Graduation</b><br />Masters's of Computer Applications (AIML)<br />(2023 - 2025)<br />Chandigarh University, Gharuan
                             </p><br />
                         </div>
                     </div>

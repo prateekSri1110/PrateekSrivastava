@@ -19,7 +19,7 @@ export default function About() {
                             🤝 Looking to collaborate on exciting projects.<br />
                             📫 Connect with me: <a href="https://www.linkedin.com/in/prateek-srivastava-1005/">LinkedIn</a> <a href="https://leetcode.com/u/prateekxri/">Leetcode</a> <a href="https://github.com/prateekSri1110">Github</a> <a href="https://www.instagram.com/prateekxri/">Instagram</a>
                         </p>
-                        <p className="para">Currently pursuing my Master's in AI & ML, I love solving complex problems, building innovative applications and continuously expanding my technical skills. Beyond coding, you'll find me exploring new places, cooking delicious food, and enjoying long rides. Always eager to learn, create, and make an impact!</p>
+                        <p className="para">As a Master's student in AI & ML, I thrive on tackling complex problems and developing innovative applications. I'm dedicated to expanding my technical expertise. When I'm not coding, you can find me exploring new destinations, experimenting in the kitchen, or enjoying long rides. I'm always eager to learn, create, and contribute.</p>
                         <hr />
                         <h4>SOFTWARE ENGINEER</h4>
                         <span className="text-uppercase text-center">Expertise
