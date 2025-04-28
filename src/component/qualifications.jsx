@@ -14,8 +14,8 @@ export default function Qualifications() {
                             <h3 className="card-title fw-bold text-center">SCHOOL</h3><br />
                             <hr />
                             <p className="card-text">
-                                <b>Secondary(X)</b><br />Year of Completion: 2017<br />R.L.B. Memorial School (CBSE),<br />Lucknow<br /><br />
-                                <b>Senior Secondary(X)</b><br />Year of Completion: 2019<br />S.S. coaching (NIOS),<br />Lucknow
+                                <b>Secondary(X)</b><br />Year of Completion: 2017<br />R.L.B. Memorial School (CBSE),<br />Lucknow, Uttar Pradesh, IN<br /><br />
+                                <b>Senior Secondary(X)</b><br />Year of Completion: 2019<br />S.S. coaching (NIOS),<br />Lucknow, Uttar Pradesh, IN
                             </p><br />
                         </div>
                     </div>
@@ -25,8 +25,8 @@ export default function Qualifications() {
                             <h3 className="card-title text-center">COLLEGE</h3><br />
                             <hr />
                             <p className="card-text">
-                                <b>Graduation</b><br />Bachelor's of Computer Applications<br />(2020 - 2023)<br />Chandigarh University, Gharuan<br /><br />
-                                <b>Post Graduation</b><br />Masters's of Computer Applications (AIML)<br />(2023 - 2025)<br />Chandigarh University, Gharuan
+                                <b>Graduation</b><br />Bachelor's of Computer Applications<br />(2020 - 2023)<br />Chandigarh University, Gharuan, Punjab, IN<br /><br />
+                                <b>Post Graduation</b><br />Masters's of Computer Applications (AIML)<br />(2023 - 2025)<br />Chandigarh University, Gharuan, Punjab, IN
                             </p><br />
                         </div>
                     </div>

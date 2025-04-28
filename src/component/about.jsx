@@ -15,7 +15,7 @@ export default function About() {
                         <h1 className="mside">Hi there👋! I'm [Prateek Srivastava]</h1><br />
                         <p className="para">
                             🚀 Passionate about Full Stack Development.<br />
-                            💻 Currently solving LeetCode problems in Java / MySQL / C++ & learning Web Development.<br />
+                            💻 Currently solving LeetCode problems <b>(500+)</b> in Java / MySQL / C++ & learning Web Development.<br />
                             🤝 Looking to collaborate on exciting projects.<br />
                             📫 Connect with me: <a href="https://www.linkedin.com/in/prateek-srivastava-1005/">LinkedIn</a> <a href="https://leetcode.com/u/prateekxri/">Leetcode</a> <a href="https://github.com/prateekSri1110">Github</a> <a href="https://www.instagram.com/prateekxri/">Instagram</a>
                         </p>

@@ -1,11 +1,11 @@
 import React from "react";
-import resume from "../assets/Prateek_Srivastava.pdf";
+import Prateek_Srivastava from "../assets/Prateek_Srivastava.pdf";
 
 export default function PDF() {
     return (
         <div>
             <button className="btn btn-primary">
-                <a className="text-white text-decoration-none" href={resume} download="resume.pdf">
+                <a className="text-white text-decoration-none" href={Prateek_Srivastava} download="Prateek_Srivastava.pdf">
                     Download Resume
                 </a>
             </button>
