@@ -9,6 +9,27 @@ export default function Projects() {
                 <div className="image-container">
                     <div className="row d-flex">
                         <div className="col-6">
+                            <iframe src="https://cugpacalculator.netlify.app/" style={{ border: "1px solid black" }} width="90%" height="300px" />
+                        </div>
+                        <div className="col-6">
+                            <h3>GPA Calculator</h3>
+                            <p> SPA GPA Calculator
+                                <li>
+                                    Add as many as subjects you want.
+                                </li>
+                                <li>
+                                    Grade Table
+                                </li>
+                                <li>
+                                    seconds of game to calculate semester GPA.
+                                </li>
+                                <a href="https://cugpacalculator.netlify.app/">Link</a>
+                            </p>
+                        </div>
+                    </div>
+                    <hr />
+                    <div className="row d-flex">
+                        <div className="col-6">
                             <iframe src="https://shayarana.netlify.app/" style={{ border: "1px solid black" }} width="90%" height="300px" />
                         </div>
                         <div className="col-6">
