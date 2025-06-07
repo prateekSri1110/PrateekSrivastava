@@ -1,4 +1,16 @@
-import './allStyles.css';
+import java from '../pngs/java.png';
+import cpp from '../pngs/cpp.png';
+import css3 from '../pngs/css3.png';
+import github from '../pngs/github.png';
+import mysql from '../pngs/mysql.png';
+import react from '../pngs/react.png';
+import html from '../pngs/html.png';
+import js from '../pngs/js.png';
+import springboot from '../pngs/spring-boot.png';
+import bootstrap from '../pngs/bootstrap.png';
+import python from '../pngs/python.png';
+import mongo from '../pngs/mongo.png';
+
 
 export default function Skills() {
     return (
@@ -8,109 +20,24 @@ export default function Skills() {
             <div className="container mt-5">
                 <div className="row justify-content-center">
                     <h3 className="text-center mside">SKILLS</h3>
-                    <div className="col-md-4">
-                        <br />
-                        <div className="progress-outer out">
-                            <h5>Java</h5>
-                            <div className="progress">
-                                <div className="progress-bar progress-bar-striped active bgcolor " style={{ width: "85%" }}></div>
-                                <div className="progress-value">85%</div>
-                            </div>
-                        </div>
-                        <br />
-                        <div className="progress-outer out">
-                            <h5>C++</h5>
-                            <div className="progress">
-                                <div className="progress-bar progress-bar-dark progress-bar-striped active bgcolor" style={{ width: "65%" }}></div>
-                                <div className="progress-value">65%</div>
-                            </div>
-                        </div>
-                        <br />
-                        <div className="progress-outer out">
-                            <h5>JavaScript</h5>
-                            <div className="progress">
-                                <div className="progress-bar progress-bar-dark progress-bar-striped active bgcolor" style={{ width: "60%" }}></div>
-                                <div className="progress-value">60%</div>
-                            </div>
-                        </div>
-                        <br />
-                        <div className="progress-outer out">
-                            <h5>Python</h5>
-                            <div className="progress">
-                                <div className="progress-bar progress-bar-dark progress-bar-striped active bgcolor" style={{ width: "70%" }}></div>
-                                <div className="progress-value">70%</div>
-                            </div>
-                        </div>
+                    <br /><br />
+                    <div className='col-4 p-3 text-center'>
+                        <img style={{ width: "100px", padding: "15px" }} src={java} alt="java" />
+                        <img style={{ width: "100px", padding: "15px" }} src={cpp} alt="cpp" />
+                        <img style={{ width: "100px", padding: "15px" }} src={python} alt="python" />
+                        <img style={{ width: "100px", padding: "15px" }} src={mysql} alt="mysql" />
                     </div>
-
-                    <div className="col-md-4">
-                        <br />
-                        <div className="progress-outer out">
-                            <h5>React</h5>
-                            <div className="progress">
-                                <div className="progress-bar progress-bar-dark progress-bar-striped active bgcolor" style={{ width: "85%" }}></div>
-                                <div className="progress-value">85%</div>
-                            </div>
-                        </div>
-                        <br />
-                        <div className="progress-outer out">
-                            <h5>Bootstrap</h5>
-                            <div className="progress">
-                                <div className="progress-bar progress-bar-dark progress-bar-striped active bgcolor" style={{ width: "80%" }}></div>
-                                <div className="progress-value">80%</div>
-                            </div>
-                        </div>
-                        <br />
-                        <div className="progress-outer out">
-                            <h5>HTML</h5>
-                            <div className="progress">
-                                <div className="progress-bar progress-bar-dark progress-bar-striped active bgcolor " style={{ width: "90%" }}></div>
-                                <div className="progress-value">90%</div>
-                            </div>
-                        </div>
-                        <br />
-                        <div className="progress-outer out">
-                            <h5>CSS / SCSS</h5>
-                            <div className="progress">
-                                <div className="progress-bar progress-bar-dark progress-bar-striped active bgcolor" style={{ width: "80%" }}></div>
-                                <div className="progress-value">80%</div>
-                            </div>
-                        </div>
+                    <div className='col-4 p-3 text-center'>
+                        <img style={{ width: "100px", padding: "15px" }} src={html} alt="html" />
+                        <img style={{ width: "100px", padding: "15px" }} src={js} alt="js" />
+                        <img style={{ width: "100px", padding: "15px" }} src={css3} alt="css3" />
+                        <img style={{ width: "100px", padding: "15px" }} src={bootstrap} alt="bootstrap" />
                     </div>
-
-                    <div className="col-md-4">
-                        <br />
-                        <div className="progress-outer out">
-                            <h5>MySQL</h5>
-                            <div className="progress">
-                                <div className="progress-bar progress-bar-dark progress-bar-striped active bgcolor" style={{ width: "75%" }}></div>
-                                <div className="progress-value">75%</div>
-                            </div>
-                        </div>
-                        <br />
-                        <div className="progress-outer out">
-                            <h5>MongoDB</h5>
-                            <div className="progress">
-                                <div className="progress-bar progress-bar-dark progress-bar-striped active bgcolor" style={{ width: "65%" }}></div>
-                                <div className="progress-value">65%</div>
-                            </div>
-                        </div>
-                        <br />
-                        <div className="progress-outer out">
-                            <h5>Spring Boot</h5>
-                            <div className="progress">
-                                <div className="progress-bar progress-bar-dark progress-bar-striped active bgcolor" style={{ width: "45%" }}></div>
-                                <div className="progress-value">45%</div>
-                            </div>
-                        </div>
-                        <br />
-                        <div className="progress-outer out">
-                            <h5>GitHub</h5>
-                            <div className="progress">
-                                <div className="progress-bar progress-bar-dark progress-bar-striped active bgcolor" style={{ width: "60%" }}></div>
-                                <div className="progress-value">60%</div>
-                            </div>
-                        </div>
+                    <div className='col-4 p-3 text-center'>
+                        <img style={{ width: "100px", padding: "15px" }} src={react} alt="React" />
+                        <img style={{ width: "120px", padding: "15px" }} src={mongo} alt="mongoDB" />
+                        <img style={{ width: "120px", padding: "15px" }} src={springboot} alt="springboot" />
+                        <img style={{ width: "100px", padding: "15px" }} src={github} alt="github" />
                     </div>
                 </div>
             </div>
