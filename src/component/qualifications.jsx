@@ -36,7 +36,11 @@ export default function Qualifications() {
                             <h3 className="card-title fw-bold text-center">WORK EXPERIENCE</h3><br />
                             <hr />
                             <p className="card-text">
-                                <b>Web Designer</b><br />BACE Solutions, Lucknow<br />
+                                <b>Full Stack Developer Intern</b><br />Liv Dairy Pvt Ltd, Lucknow<br />
+                                Working period: 6 months<br /><br />
+                            </p><br />
+                            <p className="card-text">
+                                <b>Web Designer Trainee</b><br />BACE Solutions, Lucknow<br />
                                 Working period: 2 months<br /><br />
                             </p><br />
                         </div>
