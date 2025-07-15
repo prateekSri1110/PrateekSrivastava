@@ -1,5 +1,4 @@
-import React from "react";
-import Prateek_Srivastava from "../assets/Prateek_Srivastava.pdf";
+import Prateek_Srivastava from "../assets/Prateek Srivastava.pdf";
 
 export default function PDF() {
     return (
