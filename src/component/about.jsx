@@ -52,6 +52,30 @@ export default function About() {
             <PDF />
           </div>
         </div>
+        <script
+          src="https://platform.linkedin.com/badges/js/profile.js"
+          async
+          defer
+          type="text/javascript"
+        ></script>
+
+        <div
+          class="badge-base LI-profile-badge"
+          data-locale="en_US"
+          data-size="large"
+          data-theme="dark"
+          data-type="HORIZONTAL"
+          data-vanity="prateek-srivastava-1005"
+          data-version="v1"
+        >
+          <a
+            hidden
+            class="badge-base__link LI-simple-link"
+            href="https://in.linkedin.com/in/prateek-srivastava-1005?trk=profile-badge"
+          >
+            Prateek Srivastava
+          </a>
+        </div>
       </div>
     </div>
   );
