@@ -22,7 +22,7 @@ export default function Qualifications() {
 
                     <div className="col-md-4 p-4">
                         <div className="row p-3 shadow-lg crd">
-                            <h3 className="card-title text-center">COLLEGE</h3><br />
+                            <h3 className="card-title fw-bold text-center">COLLEGE</h3><br />
                             <hr />
                             <p className="card-text">
                                 <b>Graduation</b><br />Bachelor's of Computer Applications<br />(2020 - 2023)<br />Chandigarh University, Gharuan, Punjab, IN<br /><br />
@@ -35,6 +35,10 @@ export default function Qualifications() {
                         <div className="row p-3 shadow-lg crd">
                             <h3 className="card-title fw-bold text-center">WORK EXPERIENCE</h3><br />
                             <hr />
+                            <p className="card-text">
+                                <b>Full Stack Developer Trainee</b><br />CloudKeeper, Noida<br />
+                                Working period: <b>Present</b><br /><br />
+                            </p><br />
                             <p className="card-text">
                                 <b>Full Stack Developer Intern</b><br />Liv Dairy Pvt Ltd, Lucknow<br />
                                 Working period: 6 months<br /><br />

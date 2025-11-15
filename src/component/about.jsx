@@ -1,4 +1,4 @@
-import prateek from "../assets/me.jpg";
+import prateek from "../assets/Prateek.jpeg";
 import "./allStyles.css";
 import PDF from "./resume";
 
@@ -20,9 +20,9 @@ export default function About() {
             <h1 className="mside">Hi there👋! I'm [Prateek Srivastava]</h1>
             <br />
             <p className="para">
-              🚀 Aspiring Java Full Stack Developer with skills in Spring Boot,
-              REST APIs, React.js, and MySQL, and hands-on experience building
-              scalable web applications. Solved 600+ DSA problems to strengthen
+              🚀 Full Stack Developer @ CloudKeeper with skills in Spring Boot,
+              REST APIs, React.js, AWS, and MySQL, and hands-on experience building
+              scalable web applications. Solved 700+ DSA problems to strengthen
               problem-solving abilities. Eager to contribute to collaborative
               software development teams and grow as a professional developer.
               <br />
@@ -43,7 +43,7 @@ export default function About() {
               contribute.
             </p>
             <hr />
-            <h4>SOFTWARE DEVELOPER</h4>
+            <h4>SOFTWARE ENGINEER</h4>
             <span className="text-uppercase text-center">
               Expertise in Building Full Stack Applications
             </span>
