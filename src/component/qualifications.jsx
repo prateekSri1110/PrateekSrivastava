@@ -4,7 +4,7 @@ export default function Qualifications() {
             <br />
             <br />
             <hr />
-
+w
             <div className="container mt-5">
                 <h3 className="text-center mside" >QUALIFICATIONS</h3><br />
                 <div className="row p-4">
